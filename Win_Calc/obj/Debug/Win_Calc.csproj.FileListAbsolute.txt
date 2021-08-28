@@ -1,0 +1,10 @@
+C:\Users\Julio\Source\Repos\calculator\Win_Calc\bin\Debug\Win_Calc.exe.config
+C:\Users\Julio\Source\Repos\calculator\Win_Calc\bin\Debug\Win_Calc.exe
+C:\Users\Julio\Source\Repos\calculator\Win_Calc\bin\Debug\Win_Calc.pdb
+C:\Users\Julio\Source\Repos\calculator\Win_Calc\obj\Debug\Win_Calc.csproj.AssemblyReference.cache
+C:\Users\Julio\Source\Repos\calculator\Win_Calc\obj\Debug\Win_Calc.Calculator.resources
+C:\Users\Julio\Source\Repos\calculator\Win_Calc\obj\Debug\Win_Calc.Properties.Resources.resources
+C:\Users\Julio\Source\Repos\calculator\Win_Calc\obj\Debug\Win_Calc.csproj.GenerateResource.cache
+C:\Users\Julio\Source\Repos\calculator\Win_Calc\obj\Debug\Win_Calc.csproj.CoreCompileInputs.cache
+C:\Users\Julio\Source\Repos\calculator\Win_Calc\obj\Debug\Win_Calc.exe
+C:\Users\Julio\Source\Repos\calculator\Win_Calc\obj\Debug\Win_Calc.pdb
